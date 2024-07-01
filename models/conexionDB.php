@@ -5,8 +5,8 @@ class ConexionDB
   // cambiar los datos de conexion
   private $server = "localhost";
   private $user = "root";
-  private $pass = "3322";
-  private $db = "colegio";
+  private $pass = "1234";
+  private $db = "tienda2";
   private $puerto = 3306;
 
   public function conexion()
